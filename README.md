@@ -74,9 +74,10 @@
 
 ## 📊 GitHub Stats
 
-![Feleke's GitHub Stats](https://github-readme-stats.vercel.app/api?xobiya=feleke-eshetu&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Feleke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xobiya&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?xobiya=feleke-eshetu&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xobiya&layout=compact&theme=radical&hide_border=true)
+
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feleke-eshetu-733a79309/)  
