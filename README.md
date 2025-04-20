@@ -89,6 +89,4 @@
 - ♟️ Chess enthusiast (1500 ELO on Lichess)
 - 📚 Currently reading "Clean Code" by Robert Martin
 
----
-
 "First solve the problem. Then write the code." - John Johnson
