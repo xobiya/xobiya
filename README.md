@@ -87,7 +87,6 @@
 ## ⚡ Fun Facts
 - 🏫 3rd Year Software Engineering student at AMU
 - ☕ Love Ethiopian traditional coffee ceremony
-- ♟️ Chess enthusiast (1500 ELO on Lichess)
 - 📚 Currently reading "Clean Code" by Robert Martin
 
 "First solve the problem. Then write the code." - John Johnson
