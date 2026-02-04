@@ -75,11 +75,9 @@
    - Focused on practicing data processing and storage logic  
 
 ## 📊 GitHub Stats  
-https://github-readme-stats.vercel.app/api?username=xobiya&show_icons=true&theme=radical&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=xobiya&layout=compact&theme=radical&hide_border=true&langs_count=8
-
-https://streak-stats.demolab.com?user=xobiya&theme=radical&hide_border=true&date_format=M%2520j%255B%252C%2520Y%255D
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xobiya&show_icons=true&theme=radical&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xobiya&layout=compact&theme=radical&hide_border=true&langs_count=8)  
+![GitHub Streak](https://streak-stats.demolab.com?user=xobiya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feleke-eshetu-733a79309/)  
