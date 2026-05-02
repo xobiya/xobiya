@@ -1,13 +1,9 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815fy/giphy.gif" width="30px"> Hi, I'm Feleke Eshetu
+# 👋 Hi, I'm Feleke Eshetu
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║     🚀 Full-Stack Backend + DevOps Engineer 🚀              ║
-║     Building Scalable APIs & Cloud Infrastructure           ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+## 🚀 Full-Stack Backend + DevOps Engineer 🚀
+### Building Scalable APIs & Cloud Infrastructure
 
 <br>
 
@@ -15,7 +11,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Backend+Developer;DevOps+Engineer;Full-Stack+Developer;Node.js+%26+Express+Expert;Database+Architect;API+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Backend+Developer;DevOps+Engineer;Full-Stack+Developer;Node.js+%26+Express+Expert;Database+Architect;API+Designer)](https://git.io/typing-svg)
 
 </div>
 
@@ -86,11 +82,29 @@ Currently focused on:
 
 <div align="center">
 
-![Feleke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xobiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xobiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/xobiya)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xobiya&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xobiya&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/xobiya)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=xobiya&theme=tokyonight&hide_border=true)](https://github.com/xobiya)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xobiya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br>
+
+### 📈 Quick Stats
+| Metric | Count |
+|--------|-------|
+| 📦 Repositories | 24 |
+| ⭐ Stars Earned | 4+ |
+| 👥 Followers | 9 |
+| 📚 Following | 18 |
+| 🎯 Contributions | Active |
+
+<br>
+
+**🏆 GitHub Achievements:**
+- ⚡ Quickdraw Badge
+- 🐋 Pull Shark Badge (x2)
+- 🎯 YOLO Badge
 
 </div>
 
@@ -106,11 +120,8 @@ Currently focused on:
 <img alt="Subscription Tracker" src="https://img.shields.io/badge/MERN%20Stack-Success-brightgreen?style=for-the-badge">
 
 **Full-Stack Application for Managing Subscriptions**
-
-```
 Tech: React | Node.js | Express | MongoDB | JWT | Tailwind CSS
 Features: CRUD Operations | JWT Auth | Email Notifications | Auto-Updates
-```
 
 [🔗 View Repository](https://github.com/xobiya/Subscription-tracker-api) · [📝 Live Demo](https://subscription-tracker-demo.vercel.app)
 
@@ -120,12 +131,9 @@ Features: CRUD Operations | JWT Auth | Email Notifications | Auto-Updates
 <img alt="CTSA Backend" src="https://img.shields.io/badge/Backend%20API-Production%20Ready-blue?style=for-the-badge">
 
 **Complete Backend API for Peer-to-Peer Tool Sharing Platform**
-
-```
 Tech: Node.js | TypeScript | Express | PostgreSQL | Docker | Redis
 Features: JWT Auth | Chapa Payments | Real-time Chat | Reviews/Ratings
-         File Upload | API Docs | Docker Support | KYC Verification
-```
+File Upload | API Docs | Docker Support | KYC Verification
 
 [🔗 View Repository](https://github.com/xobiya/CTSA_Frontend) · [📖 Full Docs](https://github.com/xobiya)
 
@@ -135,11 +143,8 @@ Features: JWT Auth | Chapa Payments | Real-time Chat | Reviews/Ratings
 <img alt="Ogge Travel" src="https://img.shields.io/badge/Full%20Stack-Responsive%20Design-orange?style=for-the-badge">
 
 **Modern Travel Booking Platform**
-
-```
 Tech: PHP | MySQL | JavaScript | Tailwind CSS | XAMPP
 Features: User Auth | Package Booking | Profile Management | Responsive UI
-```
 
 [🔗 View Repository](https://github.com/xobiya/Ogge-Travel)
 
@@ -149,11 +154,8 @@ Features: User Auth | Package Booking | Profile Management | Responsive UI
 <img alt="E-Commerce" src="https://img.shields.io/badge/React%20Frontend-Component%20Based-pink?style=for-the-badge">
 
 **Modern E-commerce Frontend with Reusable Components**
-
-```
 Tech: React | Vite | CSS3 | JavaScript
 Features: Product Listings | Responsive Design | Fast Dev Server
-```
 
 [🔗 View Repository](https://github.com/xobiya/E-commerce)
 
@@ -325,4 +327,5 @@ I'm open to:
 
 *Last updated: 2026*
 
+</div>
 </div>
