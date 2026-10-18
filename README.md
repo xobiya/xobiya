@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=xobiya&style=for-the-badge&color=00C853&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://hits.sh/github.com/xobiya.svg?style=for-the-badge&label=Profile%20Views&color=00C853" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/xobiya?style=for-the-badge&logo=github&color=181717" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/xobiya?style=for-the-badge&logo=github&color=FFCA28&label=Stars" alt="Stars"/>
 
@@ -25,7 +25,7 @@ I'm a **4th-year Software Engineering student** at **Arba Minch University**, pa
 const feleke = {
   role: "Full-Stack Backend + DevOps Engineer",
   location: "Arba Minch, Ethiopia 🇪🇹",
-  focus: ["REST APIs", "Docker", "Payments (Chapa/Stripe)", "PostgreSQL & MongoDB", "Auth & Security"],
+  focus: ["REST APIs", "Docker", "ERP Systems", "Payments (Chapa/Stripe)", "PostgreSQL & MongoDB", "Auth & Security"],
   learning: ["AI integration", "CI/CD", "System design"],
   motto: "Never Give Up",
   openTo: ["Internships", "Open source", "Mentorship", "Freelance"],
@@ -33,6 +33,7 @@ const feleke = {
 ```
 
 **Currently focused on:**
+- 🏢 Designing & building **ERP systems** (HR, inventory, finance, procurement)
 - 🔧 Building robust REST APIs with Node.js & Express
 - 🐳 Containerizing apps with Docker
 - 💳 Integrating secure payment gateways (Chapa, Stripe)
@@ -73,13 +74,15 @@ const feleke = {
 
 <br/>
 
-<!-- Animated contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xobiya&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+<!-- Contribution graph (stable image service, no Vercel dependency) -->
+<img src="https://ghchart.rshah.org/00E676/xobiya" alt="Contribution Graph" width="95%"/>
 
-<br/>
+<br/><br/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=xobiya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="Trophies"/>
+<!-- Achievement badges (static shields, always render) -->
+<img src="https://img.shields.io/badge/%E2%9A%A1%20Quickdraw-FFCA28?style=for-the-badge" alt="Quickdraw"/>
+<img src="https://img.shields.io/badge/%F0%9F%90%8B%20Pull%20Shark%20x2-0288D1?style=for-the-badge" alt="Pull Shark x2"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20YOLO-E91E63?style=for-the-badge" alt="YOLO"/>
 
 </div>
 
@@ -133,6 +136,46 @@ Product listings · responsive design · fast dev server
 
 ---
 
+## 🏢 ERP System Development
+
+I design and build **custom ERP (Enterprise Resource Planning) systems** that replace spreadsheets and disconnected tools with one secure, role-based platform.
+
+<div align="center">
+
+| Module | What it covers |
+|:--|:--|
+| 👥 **HR & Payroll** | Employee records, attendance, leave, payroll, org structure |
+| 📦 **Inventory & Warehouse** | Stock levels, transfers, reorder alerts, batch tracking |
+| 💰 **Finance & Accounting** | Invoices, expenses, ledgers, payments (Chapa / Stripe) |
+| 🛒 **Procurement & Sales** | Purchase orders, suppliers, quotations, customers |
+| 📊 **Reports & Dashboards** | KPIs, exports (PDF/Excel), real-time analytics |
+| 🔐 **Access & Audit** | Role-based permissions, approval workflows, audit logs |
+
+</div>
+
+**Architecture I use**
+- **Backend:** Node.js · Express · TypeScript, modular (one module per business domain)
+- **Database:** PostgreSQL with transactions, migrations and indexed reporting queries; Redis for caching and queues
+- **Frontend:** React · Tailwind CSS admin dashboards
+- **Security:** JWT auth, RBAC, input validation, audit trails, optional multi-tenancy
+- **Deployment:** Docker & Docker Compose, CI/CD, Linux servers
+
+```mermaid
+flowchart LR
+  UI[React Dashboard] --> API[Node.js / Express API]
+  API --> AUTH[Auth & RBAC]
+  API --> HR[HR & Payroll]
+  API --> INV[Inventory]
+  API --> FIN[Finance & Payments]
+  API --> REP[Reports]
+  HR & INV & FIN & REP --> DB[(PostgreSQL)]
+  API --> CACHE[(Redis)]
+```
+
+📩 Need an ERP for your business or organization? [Get in touch](mailto:eshetufeleke21@gmail.com?subject=ERP%20System%20Project).
+
+---
+
 ## 💼 Services I Offer
 
 <table align="center">
@@ -158,6 +201,18 @@ Product listings · responsive design · fast dev server
       <h3>🐳 DevOps & Docker</h3>
       <p>Containerize and deploy applications</p>
       <code>Docker | Compose | Linux | CI/CD</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🏢 ERP System Development</h3>
+      <p>Custom ERP platforms that unify a company's operations</p>
+      <code>HR | Inventory | Finance | Procurement | Reports</code>
+    </td>
+    <td width="50%" align="center">
+      <h3>🔐 RBAC & Security</h3>
+      <p>Role-based access, audit trails and secure multi-user systems</p>
+      <code>RBAC | JWT | Audit Logs | Multi-tenancy</code>
     </td>
   </tr>
   <tr>
