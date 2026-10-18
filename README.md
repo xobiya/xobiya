@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-[💼 Hire Me](#-freelance--hire-me) · [🏢 ERP](#-erp-system-development) · [🔥 Projects](#-featured-projects) · [🛠️ Stack](#%EF%B8%8F-tech-stack) · [📞 Contact](#-get-in-touch)
+[💼 Hire Me](#freelance) · [🏢 ERP](#erp) · [🔥 Projects](#projects) · [🛠️ Stack](#stack) · [📞 Contact](#contact)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 👋 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave"/>
 
-I'm a **fifth-year Software Engineering student at Arba Minch University** and a **freelance full-stack developer** based in Ethiopia 🇪🇹. I design and build **ERP systems, marketplaces, and real-time platforms** for the Ethiopian market, with local payments (Chapa, Telebirr), ETB pricing, and Amharic/English interfaces.
+I'm a **fifth-year Software Engineering student at Arba Minch University** and a **professional freelance full-stack developer** based in Ethiopia 🇪🇹. I design and build **ERP systems, marketplaces, and real-time platforms** for the Ethiopian market, with local payments (Chapa, Telebirr), ETB pricing, and Amharic/English interfaces.
 
 My work centers on production-style systems: role-based access, secure APIs, real-time features, clean architecture, and containerized deployment.
 
@@ -39,59 +39,90 @@ const feleke = {
 
 ---
 
+<a id="freelance"></a>
+
 ## 💼 Freelance & Hire Me
 
-I take on freelance projects for businesses, startups, and organizations, from a first MVP to a full custom system.
+<div align="center">
+
+### 🟢 I'm a freelance software developer, available for new projects
+
+*I build custom software for businesses, startups and organizations: from a first MVP to a complete system.*
+
+[![Hire me by email](https://img.shields.io/badge/📩%20Start%20a%20Project-eshetufeleke21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshetufeleke21@gmail.com?subject=Freelance%20Project%20Inquiry)
+[![Telegram](https://img.shields.io/badge/💬%20Message%20Me-@xobiya-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xobiya)
+[![LinkedIn](https://img.shields.io/badge/🤝%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felek-eshetu-a6b4a0371)
+
+</div>
+
+### 🧰 What I can build for you
 
 <table align="center">
   <tr>
     <td width="33%" align="center">
       <h3>🏢 ERP Systems</h3>
-      <p>HR, finance, inventory, procurement, CRM and reporting in one platform</p>
+      <p>HR, payroll, finance, inventory, procurement, CRM and reporting in one platform</p>
     </td>
     <td width="33%" align="center">
       <h3>🛒 Marketplaces & Platforms</h3>
-      <p>Multi-role apps: delivery, e-commerce, brokerage, booking</p>
+      <p>Delivery, e-commerce, brokerage, booking and multi-vendor apps</p>
     </td>
     <td width="33%" align="center">
       <h3>🔧 APIs & Backends</h3>
-      <p>Secure, documented REST APIs, auth, RBAC, webhooks</p>
+      <p>Secure REST APIs, authentication, RBAC, webhooks, Swagger docs</p>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
+      <h3>🌐 Websites & Web Apps</h3>
+      <p>Responsive React and Laravel apps, dashboards and admin panels</p>
+    </td>
+    <td width="33%" align="center">
       <h3>💳 Payment Integration</h3>
-      <p>Chapa, Telebirr, Stripe, with webhooks and reconciliation</p>
+      <p>Chapa, Telebirr and Stripe, with webhooks and verification</p>
     </td>
     <td width="33%" align="center">
-      <h3>🐳 DevOps & Deployment</h3>
-      <p>Docker, CI/CD, Linux, Vercel, Railway, Render</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>⚡ Optimization & Support</h3>
-      <p>Query tuning, caching, code review, ongoing maintenance</p>
+      <h3>🐳 Deployment & DevOps</h3>
+      <p>Docker, CI/CD, Linux servers, Vercel, Railway, Render</p>
     </td>
   </tr>
 </table>
 
-**How I work**
+### ✅ Why work with me
+
+- 🇪🇹 **Built for Ethiopia:** local payments (Chapa, Telebirr), ETB pricing, Amharic/English interfaces
+- 🔐 **Secure by default:** JWT, role-based access, validation, rate limiting
+- 📦 **Real projects:** delivery, ERP, marketplace and enterprise systems you can inspect on [my GitHub](https://github.com/xobiya)
+- 💬 **Clear communication:** agreed scope, regular demos, documented code and handover
+- 🛠️ **After-launch support:** bug fixes, updates and training
+
+### 🤝 How we can work together
+
+| Engagement | Best for |
+|:--|:--|
+| **Fixed-price project** | A clearly defined app, website or module |
+| **Hourly / part-time** | Ongoing development, improvements, maintenance |
+| **MVP sprint** | Startups that need a working first version quickly |
+| **Bug fix / code review** | An existing project that needs rescuing or optimizing |
+
+### 🔄 My process
 
 | Step | What happens |
 |:-:|:--|
-| 1️⃣ **Discover** | We define goals, users, roles and the must-have features |
+| 1️⃣ **Discover** | We define goals, users, roles and must-have features |
 | 2️⃣ **Design** | Database schema, API contract and UI flow agreed before coding |
 | 3️⃣ **Build** | Short iterations with regular demos and Git-based delivery |
 | 4️⃣ **Launch** | Dockerized deployment, documentation and handover |
-| 5️⃣ **Support** | Bug fixes, improvements and training after go-live |
+| 5️⃣ **Support** | Fixes, improvements and training after go-live |
 
-<div align="center">
-
-[![Hire me by email](https://img.shields.io/badge/📩%20Start%20a%20Project-eshetufeleke21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshetufeleke21@gmail.com?subject=Freelance%20Project%20Inquiry)
-[![Telegram](https://img.shields.io/badge/💬%20Chat%20on%20Telegram-@xobiya-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xobiya)
-
-</div>
+<!-- Add your freelance marketplace profiles here when you have them, e.g.
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_URL)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
+-->
 
 ---
+
+<a id="erp"></a>
 
 ## 🏢 ERP System Development
 
@@ -128,6 +159,8 @@ flowchart LR
 I also built **AITB**, a 15-module Laravel enterprise system for regional project and investment management, with allocation formulas, forecasting, EVM metrics and KPI dashboards.
 
 ---
+
+<a id="projects"></a>
 
 ## 🔥 Featured Projects
 
@@ -226,6 +259,8 @@ I also built **AITB**, a 15-module Laravel enterprise system for regional projec
 
 ---
 
+<a id="stack"></a>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -297,6 +332,8 @@ I also built **AITB**, a 15-module Laravel enterprise system for regional projec
 ✅ **Freelance projects** · ✅ **Internships & junior roles** · ✅ **Open-source contributions** · ✅ **Mentorship**
 
 ---
+
+<a id="contact"></a>
 
 ## 📞 Get In Touch
 
