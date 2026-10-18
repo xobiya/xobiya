@@ -1,34 +1,43 @@
-# 👋 Hi, I'm Feleke Eshetu
-
+<!-- Animated header -->
 <div align="center">
 
-## 🚀 Full-Stack Backend + DevOps Engineer 🚀
-### Building Scalable APIs & Cloud Infrastructure
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=220&section=header&text=Feleke%20Eshetu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Backend%20%2B%20DevOps%20Engineer&descAlignY=58&descSize=20" alt="Header" width="100%"/>
 
-<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Backend+Developer+%F0%9F%94%A7;DevOps+Engineer+%F0%9F%90%B3;Full-Stack+Developer+%F0%9F%9A%80;Node.js+%26+Express+Builder+%E2%9A%A1;API+%26+Database+Architect+%F0%9F%97%84%EF%B8%8F;Never+Give+Up+%F0%9F%92%AA" alt="Typing SVG" />
+</a>
 
-**💭 Never Give Up | 🚀 Building the Future | ⚡ Always Learning**
+<br/>
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Backend+Developer;DevOps+Engineer;Full-Stack+Developer;Node.js+%26+Express+Expert;Database+Architect;API+Designer)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=xobiya&style=for-the-badge&color=00C853&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/xobiya?style=for-the-badge&logo=github&color=181717" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/xobiya?style=for-the-badge&logo=github&color=FFCA28&label=Stars" alt="Stars"/>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👋 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave"/>
 
-I'm a **Software Engineering student** at Arba Minch University, passionate about building **scalable backend systems** and **cloud infrastructure**. With hands-on experience in **Node.js, Express, PostgreSQL, MongoDB, Docker**, and **payment integration**, I deliver production-ready solutions.
+I'm a **4th-year Software Engineering student** at **Arba Minch University**, passionate about building **scalable backend systems** and **cloud infrastructure**. I work with **Node.js, Express, PostgreSQL, MongoDB, Docker** and **payment integrations**, and I like shipping production-ready solutions.
 
-Currently focused on:
+```js
+const feleke = {
+  role: "Full-Stack Backend + DevOps Engineer",
+  location: "Arba Minch, Ethiopia 🇪🇹",
+  focus: ["REST APIs", "Docker", "Payments (Chapa/Stripe)", "PostgreSQL & MongoDB", "Auth & Security"],
+  learning: ["AI integration", "CI/CD", "System design"],
+  motto: "Never Give Up",
+  openTo: ["Internships", "Open source", "Mentorship", "Freelance"],
+};
+```
+
+**Currently focused on:**
 - 🔧 Building robust REST APIs with Node.js & Express
-- 🐳 Containerizing applications with Docker
+- 🐳 Containerizing apps with Docker
 - 💳 Integrating secure payment gateways (Chapa, Stripe)
 - 🗄️ Designing efficient databases (PostgreSQL, MongoDB)
 - 🔐 Implementing authentication & authorization systems
-
-<br>
 
 ---
 
@@ -36,45 +45,18 @@ Currently focused on:
 
 <div align="center">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,php,java,postgres,mongodb,mysql,firebase,supabase,docker,git,github,linux,cloudflare,vercel,netlify,postman&perline=8" alt="Tech stack icons" />
+</a>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<br/><br/>
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🚀 DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### 💳 Integrations & Tools
-![Chapa](https://img.shields.io/badge/Chapa%20Payment-6C63FF?style=for-the-badge&logo=stripe&logoColor=white)
+![Chapa](https://img.shields.io/badge/Chapa_Payments-6C63FF?style=for-the-badge)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
-
-<br>
 
 ---
 
@@ -82,33 +64,39 @@ Currently focused on:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xobiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/xobiya)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=xobiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xobiya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xobiya&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/xobiya)
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xobiya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=xobiya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<br>
+<br/>
 
-### 📈 Quick Stats
-| Metric | Count |
-|--------|-------|
-| 📦 Repositories | 24 |
-| ⭐ Stars Earned | 4+ |
-| 👥 Followers | 9 |
-| 📚 Following | 18 |
-| 🎯 Contributions | Active |
+<!-- Animated contribution graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xobiya&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
 
-<br>
+<br/>
 
-**🏆 GitHub Achievements:**
-- ⚡ Quickdraw Badge
-- 🐋 Pull Shark Badge (x2)
-- 🎯 YOLO Badge
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=xobiya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="Trophies"/>
 
 </div>
 
-<br>
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Requires the workflow in .github/workflows/snake.yml (included) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xobiya/xobiya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xobiya/xobiya/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/xobiya/xobiya/output/github-snake.svg" />
+</picture>
+
+</div>
+
+**🏆 GitHub Achievements:** ⚡ Quickdraw · 🐋 Pull Shark ×2 · 🎯 YOLO
 
 ---
 
@@ -116,52 +104,32 @@ Currently focused on:
 
 <div align="center">
 
-### 1️⃣ Subscription Tracker
-<img alt="Subscription Tracker" src="https://img.shields.io/badge/MERN%20Stack-Success-brightgreen?style=for-the-badge">
-
-**Full-Stack Application for Managing Subscriptions**
-Tech: React | Node.js | Express | MongoDB | JWT | Tailwind CSS
-Features: CRUD Operations | JWT Auth | Email Notifications | Auto-Updates
-
-[🔗 View Repository](https://github.com/xobiya/Subscription-tracker-api) · [📝 Live Demo](https://subscription-tracker-demo.vercel.app)
-
----
-
-### 2️⃣ CTSA - Community Tool Sharing App (Backend)
-<img alt="CTSA Backend" src="https://img.shields.io/badge/Backend%20API-Production%20Ready-blue?style=for-the-badge">
-
-**Complete Backend API for Peer-to-Peer Tool Sharing Platform**
-Tech: Node.js | TypeScript | Express | PostgreSQL | Docker | Redis
-Features: JWT Auth | Chapa Payments | Real-time Chat | Reviews/Ratings
-File Upload | API Docs | Docker Support | KYC Verification
-
-[🔗 View Repository](https://github.com/xobiya/CTSA_Frontend) · [📖 Full Docs](https://github.com/xobiya)
-
----
-
-### 3️⃣ Ogge Travel Agency
-<img alt="Ogge Travel" src="https://img.shields.io/badge/Full%20Stack-Responsive%20Design-orange?style=for-the-badge">
-
-**Modern Travel Booking Platform**
-Tech: PHP | MySQL | JavaScript | Tailwind CSS | XAMPP
-Features: User Auth | Package Booking | Profile Management | Responsive UI
-
-[🔗 View Repository](https://github.com/xobiya/Ogge-Travel)
-
----
-
-### 4️⃣ E-Commerce UI
-<img alt="E-Commerce" src="https://img.shields.io/badge/React%20Frontend-Component%20Based-pink?style=for-the-badge">
-
-**Modern E-commerce Frontend with Reusable Components**
-Tech: React | Vite | CSS3 | JavaScript
-Features: Product Listings | Responsive Design | Fast Dev Server
-
-[🔗 View Repository](https://github.com/xobiya/E-commerce)
+| | |
+|:-:|:-:|
+| <a href="https://github.com/xobiya/Subscription-tracker-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xobiya&repo=Subscription-tracker-api&theme=tokyonight&hide_border=true" alt="Subscription Tracker"/></a> | <a href="https://github.com/xobiya/CTSA_Backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xobiya&repo=CTSA_Backend&theme=tokyonight&hide_border=true" alt="CTSA Backend"/></a> |
+| <a href="https://github.com/xobiya/Ogge-Travel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xobiya&repo=Ogge-Travel&theme=tokyonight&hide_border=true" alt="Ogge Travel"/></a> | <a href="https://github.com/xobiya/E-commerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xobiya&repo=E-commerce&theme=tokyonight&hide_border=true" alt="E-Commerce UI"/></a> |
 
 </div>
 
-<br>
+### 1️⃣ Subscription Tracker
+**Full-stack app for managing subscriptions** — `React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
+CRUD operations · JWT auth · email notifications · auto-updates
+🔗 [Repository](https://github.com/xobiya/Subscription-tracker-api)
+
+### 2️⃣ CTSA — Community Tool Sharing App (Backend)
+**Production-ready backend API for a peer-to-peer tool sharing platform** — `Node.js` `TypeScript` `Express` `PostgreSQL` `Docker` `Redis`
+JWT auth · Chapa payments · real-time chat · reviews & ratings · file upload · KYC verification · API docs
+🔗 [Backend](https://github.com/xobiya/CTSA_Backend) · [Frontend](https://github.com/xobiya/CTSA_Frontend)
+
+### 3️⃣ Ogge Travel Agency
+**Modern travel booking platform** — `PHP` `MySQL` `JavaScript` `Tailwind CSS` `XAMPP`
+User auth · package booking · profile management · responsive UI
+🔗 [Repository](https://github.com/xobiya/Ogge-Travel)
+
+### 4️⃣ E-Commerce UI
+**Modern e-commerce frontend with reusable components** — `React` `Vite` `CSS3` `JavaScript`
+Product listings · responsive design · fast dev server
+🔗 [Repository](https://github.com/xobiya/E-commerce)
 
 ---
 
@@ -171,92 +139,73 @@ Features: Product Listings | Responsive Design | Fast Dev Server
   <tr>
     <td width="50%" align="center">
       <h3>🔧 API Development</h3>
-      <p>Build secure, scalable REST APIs with Node.js & Express</p>
-      <code>JWT | Authentication | Payment Integration | WebSockets</code>
+      <p>Secure, scalable REST APIs with Node.js & Express</p>
+      <code>JWT | Auth | Payments | WebSockets</code>
     </td>
     <td width="50%" align="center">
       <h3>🗄️ Database Design</h3>
-      <p>Design & optimize PostgreSQL, MongoDB, MySQL databases</p>
-      <code>Schema Design | Query Optimization | Backups | Migrations</code>
+      <p>Design & optimize PostgreSQL, MongoDB, MySQL</p>
+      <code>Schemas | Query Tuning | Backups | Migrations</code>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h3>💳 Payment Integration</h3>
-      <p>Integrate Chapa, Stripe, and other payment gateways</p>
-      <code>Chapa | Stripe | Webhooks | Transactions | Security</code>
+      <p>Chapa, Stripe and other payment gateways</p>
+      <code>Chapa | Stripe | Webhooks | Security</code>
     </td>
     <td width="50%" align="center">
       <h3>🐳 DevOps & Docker</h3>
       <p>Containerize and deploy applications</p>
-      <code>Docker | Docker Compose | Linux | Deployment | CI/CD</code>
+      <code>Docker | Compose | Linux | CI/CD</code>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h3>🚀 Full-Stack Solutions</h3>
-      <p>Build complete applications from frontend to backend</p>
-      <code>React | Node.js | TypeScript | Complete Solutions</code>
+      <p>Complete apps from frontend to backend</p>
+      <code>React | Node.js | TypeScript</code>
     </td>
     <td width="50%" align="center">
       <h3>⚡ Performance Optimization</h3>
-      <p>Optimize code, databases, and infrastructure</p>
-      <code>Query Optimization | Caching | Monitoring | Scaling</code>
+      <p>Optimize code, databases and infrastructure</p>
+      <code>Caching | Monitoring | Scaling</code>
     </td>
   </tr>
 </table>
 
-<br>
+---
+
+## 🎓 Education
+
+- 🎓 **BSc Software Engineering** — Arba Minch University (4th year)
+- 📚 **Full-Stack Web Development** — continuous self-learning
 
 ---
 
-## 🎓 Education & Certifications
+## 📈 What I'm Working On
 
-- 🎓 **Software Engineering Student** | Arba Minch University (4th Year)
-- 📚 **Full-Stack Web Development** | Continuous Learning
-- 🏆 **GitHub Achievements:**
-  - ⚡ Quickdraw
-  - 🐋 Pull Shark (x2)
-  - 🎯 YOLO
-
-<br>
-
----
-
-## 📈 What I'm Currently Working On
-
-<div align="center">
-
-- 🔨 Building scalable backend systems with Node.js
+- 🔨 Scalable backend systems with Node.js
 - 🐳 Mastering Docker & containerization
-- 💳 Deepening payment gateway integration expertise
-- 🤖 Exploring AI integration in web applications
-- 📚 Preparing for real-world software engineering projects
-
-</div>
-
-<br>
+- 💳 Deepening payment gateway expertise
+- 🤖 Exploring AI integration in web apps
+- 📚 Preparing for real-world engineering projects
 
 ---
 
 ## 🤝 Let's Collaborate
 
-I'm open to:
-- ✅ **Open-source Projects** - Contributing to meaningful projects
-- ✅ **MERN Stack Applications** - Building full-stack solutions
-- ✅ **Backend APIs** - Designing scalable systems
-- ✅ **Mentorship** - Learning from experienced developers
-- ✅ **Internship Opportunities** - Gaining real-world experience
-
-<br>
+- ✅ **Open-source projects** — contributing to meaningful work
+- ✅ **MERN stack applications** — building full-stack solutions
+- ✅ **Backend APIs** — designing scalable systems
+- ✅ **Mentorship** — learning from experienced developers
+- ✅ **Internships** — gaining real-world experience
 
 ---
 
 ## 📞 Get In Touch
 
 <div align="center">
-
-### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felek-eshetu-a6b4a0371)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xobiya)
@@ -265,15 +214,9 @@ I'm open to:
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/feleke9063)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://feleke-eshetu.vercel.app)
 
-<br>
-
-**📧 Email:** eshetufeleke21@gmail.com  
-**📱 Telegram:** [@xobiya](https://t.me/xobiya)  
-**📍 Location:** Arba Minch, Ethiopia 🇪🇹
+**📧** eshetufeleke21@gmail.com · **📱** [@xobiya](https://t.me/xobiya) · **📍** Arba Minch, Ethiopia 🇪🇹
 
 </div>
-
-<br>
 
 ---
 
@@ -281,51 +224,25 @@ I'm open to:
 
 <div align="center">
 
-> **"Never Give Up"** - My motto for life and coding  
-> 
-> I believe in:
-> - 📖 **Continuous Learning** - Technology evolves, so do I
-> - 🤝 **Collaboration** - Great things happen together
-> - 💪 **Resilience** - Every bug is a learning opportunity
-> - 🎯 **Quality** - Excellence in every line of code
+> **"Never Give Up"** — my motto for life and code
+>
+> 📖 Continuous learning · 🤝 Collaboration · 💪 Resilience · 🎯 Quality
 
 </div>
-
-<br>
-
----
 
 ## 📚 Fun Facts
 
-<div align="center">
-
-- 🎮 Passionate about building applications that solve real problems
-- ☕ Coffee-powered developer (lots of it!)
-- 🌙 Night owl - I code better after sunset
-- 📖 Always reading about new technologies
-- 🚀 Dream: Build products used by millions
-
-</div>
-
-<br>
-
----
+- 🎮 I love building apps that solve real problems
+- ☕ Coffee-powered developer
+- 🌙 Night owl — I code better after sunset
+- 🚀 Dream: build products used by millions
 
 <div align="center">
 
 ### ⭐ If you like my work, consider giving a star! ⭐
 
-<img src="https://media.giphy.com/media/dxn6blHolwznuMc5A8/giphy.gif" width="300px">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=120&section=footer" alt="Footer" width="100%"/>
 
----
+**Made with ❤️ by Feleke Eshetu** · *Last updated: 2026*
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=xobiya&style=flat-square&color=blue" alt="Profile Views">
-</p>
-
-**Made with ❤️ by Feleke Eshetu**
-
-*Last updated: 2026*
-
-</div>
 </div>
